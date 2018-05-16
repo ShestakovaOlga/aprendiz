@@ -1,0 +1,75 @@
+h1 {
+    color: rgb(104, 81, 129);
+    margin-left: 36vw;
+}
+
+
+h2 {
+    color: rgb(104, 81, 129);
+    margin-left: 36vw;
+    margin-top: -21vh;
+}
+
+p1 {
+    color: rgb(7, 22, 16);
+    font-size: 22px;
+    margin-bottom: 9vh;
+    margin-top: 9vh;
+    margin-left: 12vw;
+}
+p2 {
+    color: rgb(7, 22, 16);
+    font-size: 22px;
+    margin-bottom: 9vh;
+    margin-top: 9vh;
+    margin-left: 19vw;
+}
+p3 { color: rgb(7, 22, 16);
+    font-size: 22px;
+    margin-bottom: 33vh;
+    margin-top: 9vh;
+    margin-left: 14vw;
+}
+
+p5 {color: rgb(7, 22, 16);
+    font-size: 22px;
+    margin-bottom: 9vh;
+    margin-top: 9vh;
+    margin-left: 28vw;}
+.inline-list {
+    display: inline;
+    font-size: 18px;
+    color: rgb(183, 29, 230);
+    margin-left: 6vw;
+}
+.inline-list1 {
+    display: inline;
+    font-size: 18px;
+    color: rgb(183, 29, 230);
+    margin-left: 36vw;
+}
+
+.inline-list2 {
+    
+    color: rgb(183, 29, 230);
+    margin-left: 8vw;
+}
+.inline-list3 {
+    color: rgb(183, 29, 230);
+    margin-left: 14vw;
+}
+.colorclass1 {
+    color: rgb(185, 38, 136);
+
+}
+
+.enmedio {
+    margin-left: 50%;
+    transform: translateX(-50%);
+    display: inline-block;
+}
+.ol1class {
+    color: rgb(104, 81, 129);
+    font-size: 24px;
+    margin-left: 42vw;
+    }
