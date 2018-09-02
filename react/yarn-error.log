@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\Olga\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add React
+
+PATH: 
+  C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\WINDOWS\System32\OpenSSH\;C:\Users\Olga\AppData\Local\Microsoft\WindowsApps;C:\Users\Olga\AppData\Local\atom\bin;C:\Users\Olga\AppData\Roaming\npm;C:\Program Files\Microsoft VS Code\bin;;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps
+
+Yarn version: 
+  1.6.0
+
+Node version: 
+  9.0.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/React: Not found
+      at Request.params.callback [as _callback] (C:\Users\Olga\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:65327:18)
+      at Request.self.callback (C:\Users\Olga\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:133155:22)
+      at emitTwo (events.js:135:13)
+      at Request.emit (events.js:224:7)
+      at Request.<anonymous> (C:\Users\Olga\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:134138:10)
+      at emitOne (events.js:125:13)
+      at Request.emit (events.js:221:7)
+      at IncomingMessage.<anonymous> (C:\Users\Olga\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:134058:12)
+      at Object.onceWrapper (events.js:322:30)
+      at emitNone (events.js:120:20)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

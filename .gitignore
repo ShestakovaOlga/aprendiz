@@ -1,0 +1,5 @@
+.cache
+dist
+react/node_modules
+react/dist
+react/.cache

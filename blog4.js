@@ -118,8 +118,8 @@ setCanvasSize();
 init();
 
 function setCanvasSize() {
-    (WIDTH = document.documentElement.clientWidth), (HEIGHT =
-        document.documentElement.clientHeight);
+    (WIDTH = document.documentElement.clientWidth);
+    HEIGHT = document.body.clientHeight
 
     canvas.setAttribute("width", WIDTH);
     canvas.setAttribute("height", HEIGHT);
@@ -229,6 +229,6 @@ function showSlides(n) {
     for (i = 0; i < dots.length; i++) {
         dots[i].className = dots[i].className.replace(" active", "");
     }
-    slides[slideIndex - 1].style.display = "block";
+    slides[slideIndex - 1].style.display = "flex";
     dots[slideIndex - 1].className += " active";
 }
